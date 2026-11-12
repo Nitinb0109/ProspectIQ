@@ -1,0 +1,7 @@
+{
+    "subject": "Accelerating Microsoft Discovery with AI workflow automation",
+    "email_body": "Satya, congratulations on the launch of Microsoft Discovery and the Majorana 2 quantum chip – a clear signal that Azure is becoming the hub for frontier AI and quantum workloads. Enterprises that adopt Discovery will need a reliable way to orchestrate the repetitive, data‑intensive steps that precede quantum‑ready experiments. Our AI workflow automation platform does exactly that: it stitches together Azure services, automates model‑training pipelines, and provides real‑time monitoring, freeing engineers to focus on innovation rather than glue code. I’d love to explore how a lightweight integration could boost Discovery’s end‑to‑end efficiency for your early adopters. Would a 20‑minute call next week work for you?",
+    "personalization_signal": "Majorana 2 quantum chip & Microsoft Discovery AI",
+    "source_url": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai",
+    "reasoning": "The announcement of Microsoft Discovery and the Majorana 2 chip shows Microsoft’s strategic push into AI‑driven quantum research, creating a need for robust workflow automation. Positioning our platform as a complementary orchestration layer directly addresses that emerging requirement and offers a clear partnership opportunity."
+}

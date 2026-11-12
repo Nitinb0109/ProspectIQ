@@ -1,0 +1,93 @@
+{
+    "total_companies": 3,
+    "qualified_leads": [],
+    "needs_research": [
+        {
+            "company_name": "Aurora Solar",
+            "icp_fit_score": 100,
+            "product_fit_score": 60,
+            "buying_intent_score": 0,
+            "overall_score": 61,
+            "employee_count": "395",
+            "verified_facts": [
+                "Aurora Solar is a SaaS company offering a cloud\u2011based platform that uses data, automation and AI to streamline workflows (source: Built In, https://builtin.com/company/aurora-solar).",
+                "Headquarters in San Francisco, California, United States (source: Tavily knowledge page, https://tavily.com/knowledge/company/3Fh9ImvzRC2B).",
+                "Employee count of 395 (source: Contrary Research, https://research.contrary.com/company/aurora-solar)."
+            ],
+            "unknown_information": [
+                "Specific current pain points related to workflow automation.",
+                "Any recent technology investment or job openings for automation tools."
+            ],
+            "buying_signals": [],
+            "competitor_risk": "Low",
+            "rejection_reasons": [],
+            "evidence_urls": [
+                "https://research.contrary.com/company/aurora-solar",
+                "https://builtin.com/company/aurora-solar",
+                "https://tavily.com/knowledge/company/3Fh9ImvzRC2B"
+            ],
+            "qualification_status": "Needs Research",
+            "reasoning": "Aurora Solar matches the ICP (US SaaS, 50\u2011500 employees) and its platform already emphasizes automation, indicating potential product relevance. However, there is no concrete buying intent evidence such as job openings or announced automation projects, so further research is needed."
+        }
+    ],
+    "rejected_leads": [
+        {
+            "company_name": "Acumatica Cloud ERP",
+            "icp_fit_score": 40,
+            "product_fit_score": 40,
+            "buying_intent_score": 0,
+            "overall_score": 30,
+            "employee_count": "812",
+            "verified_facts": [
+                "Acumatica operates in the software development / SaaS space (source: LeadIQ, https://leadiq.com/c/acumatica/5a1d8a9524000024006450cc).",
+                "Headquarters in the United States (implied by .com domain and US\u2011focused press releases).",
+                "Employee count of approximately 812 (source: LeadIQ, https://leadiq.com/c/acumatica/5a1d8a9524000024006450cc).",
+                "Recent product releases highlight AI\u2011enabled workflows and AI automation within the ERP (source: Yahoo Finance, https://finance.yahoo.com/technology/ai/articles/acumatica-2026-r2-enables-mid-160700749.html)."
+            ],
+            "unknown_information": [
+                "Exact US employee count breakdown (overall count includes global staff).",
+                "Any explicit initiative to purchase an external AI workflow automation platform."
+            ],
+            "buying_signals": [],
+            "competitor_risk": "Medium",
+            "rejection_reasons": [
+                "Employee count exceeds the campaign maximum of 500."
+            ],
+            "evidence_urls": [
+                "https://leadiq.com/c/acumatica/5a1d8a9524000024006450cc",
+                "https://finance.yahoo.com/technology/ai/articles/acumatica-2026-r2-enables-mid-160700749.html"
+            ],
+            "qualification_status": "Rejected",
+            "reasoning": "While Acumatica is a US\u2011based SaaS company, its employee headcount (~812) is outside the 50\u2011500 range, making it ineligible for the ICP. No buying intent evidence is present."
+        },
+        {
+            "company_name": "Sinch",
+            "icp_fit_score": 0,
+            "product_fit_score": 30,
+            "buying_intent_score": 0,
+            "overall_score": 11,
+            "employee_count": "4,184",
+            "verified_facts": [
+                "Sinch is a digital communications SaaS provider headquartered in Stockholm, Sweden (source: Revelio Labs, https://www.reveliolabs.com/companies/sinch/employees).",
+                "Global employee count of 4,184 (source: Revelio Labs).",
+                "Company offers AI\u2011driven communication services and has announced AI\u2011related predictions and partnerships (source: sinch.com news, https://sinch.com/news/sinch-releases-2026-predictions-ai-to-redefine-how-brands-connect)."
+            ],
+            "unknown_information": [
+                "US presence or US\u2011based employee count.",
+                "Any specific workflow automation challenges or initiatives."
+            ],
+            "buying_signals": [],
+            "competitor_risk": "Low",
+            "rejection_reasons": [
+                "Headquarters outside the United States.",
+                "Employee count far exceeds the 50\u2011500 range."
+            ],
+            "evidence_urls": [
+                "https://www.reveliolabs.com/companies/sinch/employees",
+                "https://sinch.com/news/sinch-releases-2026-predictions-ai-to-redefine-how-brands-connect"
+            ],
+            "qualification_status": "Rejected",
+            "reasoning": "Sinch does not meet the location or size criteria of the ICP, and there is no evidence of a need for an AI workflow automation platform."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "prospect": "Satya Nadella",
+    "company": "Microsoft",
+    "signals": [
+        {
+            "title": "Majorana 2 quantum chip & Microsoft Discovery AI",
+            "summary": "Microsoft announced the general availability of Microsoft Discovery, an AI‑agent platform for frontier R&D, and unveiled Majorana 2 – a topological quantum chip with qubits 1,000× more reliable, targeting a scalable quantum computer by 2029.",
+            "source_url": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai",
+            "date": "2026-06-02",
+            "relevance_reason": "Demonstrates Microsoft’s push into quantum computing and agentic AI, areas that sit at the strategic core of the company and directly report to the CEO.",
+            "business_opportunity": "Propose a partnership to integrate your firm’s quantum‑software stack or AI‑workflow orchestration tools with Microsoft Discovery, helping customers accelerate quantum‑ready applications.",
+            "confidence": "High"
+        },
+        {
+            "title": "Microsoft‑Mistral strategic partnership expansion",
+            "summary": "Microsoft and Mistral expanded their partnership to bring Mistral’s frontier AI models to Microsoft Foundry, Copilot Studio, and Azure, adding Europe‑based GPU capacity and a multibillion‑dollar commitment for AI infrastructure.",
+            "source_url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control",
+            "date": "2026-07-21",
+            "relevance_reason": "Highlights Microsoft’s focus on offering controllable, high‑performance AI models to regulated industries—a priority area for the CEO’s AI strategy.",
+            "business_opportunity": "Offer specialized compliance‑as‑a‑service or data‑privacy tooling that complements Mistral models on Azure, positioning your solution as the “control layer” for regulated customers.",
+            "confidence": "High"
+        },
+        {
+            "title": "EY‑Microsoft $1B AI scaling initiative",
+            "summary": "Microsoft and EY announced a $1 billion, five‑year investment to help enterprises scale AI enterprise‑wide, leveraging Microsoft’s Forward Deployed Engineers and EY’s industry expertise.",
+            "source_url": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation",
+            "date": "2026-05-21",
+            "relevance_reason": "Shows Microsoft’s commitment to accelerating AI adoption across its customer base, a strategic pillar overseen by the CEO.",
+            "business_opportunity": "Introduce a joint go‑to‑market program that provides industry‑specific AI accelerators or pre‑built models that can be bundled with the EY‑Microsoft offering.",
+            "confidence": "High"
+        },
+        {
+            "title": "FY27 Q1 cloud revenue surge",
+            "summary": "In the September 22 2026 earnings release, Microsoft reported $63.9 billion in Cloud revenue (30% YoY growth) and a 48% increase in Azure revenue.",
+            "source_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+            "date": "2026-09-22",
+            "relevance_reason": "Strong cloud growth signals continued investment in Azure and related services, a top priority for Satya Nadella’s growth agenda.",
+            "business_opportunity": "Pitch a solution that helps Azure customers optimize cost or improve workload performance, leveraging your firm’s expertise in cloud‑native architecture.",
+            "confidence": "High"
+        },
+        {
+            "title": "Nadella’s call for cheaper, controllable AI models",
+            "summary": "In a Wall Street Journal interview (June 22 2026), Satya Nadella warned that AI giants must not dominate the economy and called for cheaper models, greater user control, and public trust.",
+            "source_url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
+            "date": "2026-06-22",
+            "relevance_reason": "Directly articulates the CEO’s strategic priority for responsible, cost‑effective AI—a theme that can shape product roadmaps and partnership talks.",
+            "business_opportunity": "Offer a governance platform or cost‑optimization engine that gives enterprises transparent control over AI model usage, aligning with Nadella’s vision.",
+            "confidence": "Medium"
+        }
+    ],
+    "overall_assessment": "Satya Nadella is currently steering Microsoft toward frontier technologies (quantum, agentic AI), scaling enterprise AI with strong partner ecosystems, and accelerating Azure growth while emphasizing responsible, affordable AI. Targeted outreach that ties your solution to these strategic themes—especially around AI governance, cost control, and quantum/agentic AI integration—will resonate with his top‑level priorities."
+}

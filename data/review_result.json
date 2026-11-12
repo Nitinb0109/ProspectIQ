@@ -1,0 +1,14 @@
+{
+    "approved": true,
+    "quality_score": 9,
+    "factual_accuracy": "Pass",
+    "product_accuracy": "Pass",
+    "personalization": "Pass",
+    "professionalism": "Pass",
+    "issues": [],
+    "suggestions": [
+        "Consider adding a brief line that quantifies the benefit (e.g., % reduction in manual effort) to make the value proposition more concrete.",
+        "Include a subtle reference to Microsoft’s recent AI cost‑control focus to align with Satya Nadella’s public statements."
+    ],
+    "review_summary": "The email accurately references the announced Microsoft Discovery and Majorana 2 chip, correctly aligns the AI workflow automation platform with a genuine need, and maintains a professional tone. No unsupported product claims were found."
+}

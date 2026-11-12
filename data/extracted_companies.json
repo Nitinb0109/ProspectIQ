@@ -1,0 +1,110 @@
+{
+    "total_candidates": 6,
+    "companies": [
+        {
+            "company_name": "OroCommerce",
+            "website": "https://oroinc.com",
+            "domain": "oroinc.com",
+            "industry": null,
+            "location": null,
+            "employee_count": null,
+            "company_type": "unclear",
+            "evidence": "Organization identified in Top 9 B2B SaaS companies based in Los Angeles, United States. Website link found on the source page. Independent verification is still required.",
+            "buying_signal": null,
+            "fit_reason": "Potential company candidate based on campaign research. Product fit has not been verified.",
+            "source_urls": [
+                "https://revenuebase.ai/companies/b2b-saas-companies/united-states/los-angeles"
+            ],
+            "confidence": "Needs verification"
+        },
+        {
+            "company_name": "VettedTek",
+            "website": "https://vettedtek.com",
+            "domain": "vettedtek.com",
+            "industry": null,
+            "location": null,
+            "employee_count": null,
+            "company_type": "unclear",
+            "evidence": "Organization identified in Top 9 B2B SaaS companies based in Los Angeles, United States. Website link found on the source page. Independent verification is still required.",
+            "buying_signal": null,
+            "fit_reason": "Potential company candidate based on campaign research. Product fit has not been verified.",
+            "source_urls": [
+                "https://revenuebase.ai/companies/b2b-saas-companies/united-states/los-angeles"
+            ],
+            "confidence": "Needs verification"
+        },
+        {
+            "company_name": "Google Workspace",
+            "website": "https://workspace.google.com/",
+            "domain": "workspace.google.com",
+            "industry": null,
+            "location": null,
+            "employee_count": null,
+            "company_type": "unclear",
+            "evidence": "Organization identified in United States SaaS Spend Rankings (2026). Website link found on the source page. Independent verification is still required.",
+            "buying_signal": null,
+            "fit_reason": "Potential company candidate based on campaign research. Product fit has not been verified.",
+            "source_urls": [
+                "https://data.cledara.com/startups/united-states"
+            ],
+            "confidence": "Needs verification"
+        },
+        {
+            "company_name": "Microsoft 365",
+            "website": "https://microsoft.com/",
+            "domain": "microsoft.com",
+            "industry": null,
+            "location": null,
+            "employee_count": null,
+            "company_type": "unclear",
+            "evidence": "Organization identified in United States SaaS Spend Rankings (2026). Website link found on the source page. Independent verification is still required.",
+            "buying_signal": null,
+            "fit_reason": "Potential company candidate based on campaign research. Product fit has not been verified.",
+            "source_urls": [
+                "https://data.cledara.com/startups/united-states"
+            ],
+            "confidence": "Needs verification"
+        },
+        {
+            "company_name": "Anthropic/Claude",
+            "website": "https://claude.ai/",
+            "domain": "claude.ai",
+            "industry": null,
+            "location": null,
+            "employee_count": null,
+            "company_type": "unclear",
+            "evidence": "Organization identified in United States SaaS Spend Rankings (2026). Website link found on the source page. Independent verification is still required.",
+            "buying_signal": null,
+            "fit_reason": "Potential company candidate based on campaign research. Product fit has not been verified.",
+            "source_urls": [
+                "https://data.cledara.com/startups/united-states"
+            ],
+            "confidence": "Needs verification"
+        },
+        {
+            "company_name": "Recall.ai",
+            "website": "https://recall.ai/",
+            "domain": "recall.ai",
+            "industry": null,
+            "location": null,
+            "employee_count": null,
+            "company_type": "unclear",
+            "evidence": "Organization identified in United States SaaS Spend Rankings (2026). Website link found on the source page. Independent verification is still required.",
+            "buying_signal": null,
+            "fit_reason": "Potential company candidate based on campaign research. Product fit has not been verified.",
+            "source_urls": [
+                "https://data.cledara.com/startups/united-states"
+            ],
+            "confidence": "Needs verification"
+        }
+    ],
+    "research_summary": "Processed 10 sources using Python, Beautiful Soup and spaCy. Identified 6 website-linked candidates.",
+    "limitations": [
+        "spaCy may miss unfamiliar company names.",
+        "Some organization names may still be false positives.",
+        "Companies without matching website links are excluded.",
+        "Some websites may block automated page fetching.",
+        "Website links do not independently prove company identity.",
+        "Employee counts and buying signals are not verified."
+    ]
+}

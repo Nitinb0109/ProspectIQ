@@ -1,0 +1,73 @@
+{
+    "total_companies": 3,
+    "qualified_leads": [],
+    "needs_research": [
+        {
+            "company_name": "Aurora Solar",
+            "icp_fit_score": 66,
+            "product_fit_score": 0,
+            "buying_intent_score": 0,
+            "overall_score": 22,
+            "verified_facts": [
+                "Aurora Solar is described as a SaaS company in the United States (source: wellfound.com)."
+            ],
+            "unknown_information": [
+                "Exact employee count (50\u2011500 range not confirmed).",
+                "Any explicit buying signal (job openings, technology investment, automation initiative, etc.)."
+            ],
+            "buying_signals": [],
+            "rejection_reasons": [
+                "Employee size not verified against ideal range.",
+                "No evidence of a workflow automation problem.",
+                "No buying intent evidence."
+            ],
+            "qualification_status": "Needs Research",
+            "reasoning": "Industry and location match, but employee count is unknown and there is no evidence of a problem the AI workflow automation platform solves or any buying intent."
+        },
+        {
+            "company_name": "Acumatica Cloud ERP",
+            "icp_fit_score": 66,
+            "product_fit_score": 0,
+            "buying_intent_score": 0,
+            "overall_score": 22,
+            "verified_facts": [
+                "Acumatica Cloud ERP is listed among top B2B SaaS companies based in the United States (source: revenuebase.ai)."
+            ],
+            "unknown_information": [
+                "Exact employee count (50\u2011500 range not confirmed).",
+                "Any explicit buying signal (job openings, technology investment, automation initiative, etc.)."
+            ],
+            "buying_signals": [],
+            "rejection_reasons": [
+                "Employee size not verified against ideal range.",
+                "No evidence of a workflow automation problem.",
+                "No buying intent evidence."
+            ],
+            "qualification_status": "Needs Research",
+            "reasoning": "Matches SaaS and US criteria, but lacks confirmed employee size and any indication of need or intent to purchase an AI workflow automation solution."
+        },
+        {
+            "company_name": "Sinch",
+            "icp_fit_score": 66,
+            "product_fit_score": 0,
+            "buying_intent_score": 0,
+            "overall_score": 22,
+            "verified_facts": [
+                "Sinch Mailgun is described as a transactional email API platform operating in the United States SaaS market (source: data.cledara.com)."
+            ],
+            "unknown_information": [
+                "Exact employee count (50\u2011500 range not confirmed).",
+                "Any explicit buying signal (job openings, technology investment, automation initiative, etc.)."
+            ],
+            "buying_signals": [],
+            "rejection_reasons": [
+                "Employee size not verified against ideal range.",
+                "No evidence of a workflow automation problem.",
+                "No buying intent evidence."
+            ],
+            "qualification_status": "Needs Research",
+            "reasoning": "While Sinch is a US\u2011based SaaS provider, there is no data confirming it falls within the 50\u2011500 employee bracket, nor any indication of a need for or intent to acquire an AI workflow automation platform."
+        }
+    ],
+    "rejected_leads": []
+}
