@@ -7,3 +7,8 @@ pydantic
 requests
 beautifulsoup4
 tavily-python
+fastapi
+uvicorn[standard]
+langchain-groq
+fastapi
+uvicorn[standard]

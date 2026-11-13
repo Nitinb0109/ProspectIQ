@@ -1,14 +1,18 @@
 {
-    "approved": true,
-    "quality_score": 9,
+    "approved": false,
+    "quality_score": 60,
     "factual_accuracy": "Pass",
-    "product_accuracy": "Pass",
+    "product_accuracy": "Fail",
     "personalization": "Pass",
     "professionalism": "Pass",
-    "issues": [],
-    "suggestions": [
-        "Consider adding a brief line that quantifies the benefit (e.g., % reduction in manual effort) to make the value proposition more concrete.",
-        "Include a subtle reference to Microsoft’s recent AI cost‑control focus to align with Satya Nadella’s public statements."
+    "issues": [
+        "The email claims the sender has an \"AI workflow automation platform\" that can automate repetitive tasks. The provided product description only mentions an AI‑powered analytics platform for data analysis and insight generation; no automation capabilities are stated.",
+        "The proposed value – a lightweight integration to accelerate quantum‑ready applications – is not logically tied to the sender's analytics focus, creating a relevance mismatch."
     ],
-    "review_summary": "The email accurately references the announced Microsoft Discovery and Majorana 2 chip, correctly aligns the AI workflow automation platform with a genuine need, and maintains a professional tone. No unsupported product claims were found."
+    "suggestions": [
+        "Reframe the pitch around the analytics strengths: e.g., how the platform can help Microsoft Discovery surface operational trends, monitor quantum‑chip performance metrics, or provide data‑driven insights for R&D teams.",
+        "Remove or replace any mention of workflow automation unless you can substantiate that capability with product details.",
+        "Tie the benefit directly to the prospect's needs: illustrate how advanced analytics can accelerate decision‑making for quantum‑ready projects rather than suggesting generic automation."
+    ],
+    "review_summary": "The email is factually accurate and well‑personalized, but it overstates the sender's product capabilities by describing workflow automation that is not supported, and the proposed opportunity does not align with the analytics‑only value proposition. These product and relevance issues prevent approval."
 }
