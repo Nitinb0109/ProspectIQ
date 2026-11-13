@@ -10,5 +10,7 @@ tavily-python
 fastapi
 uvicorn[standard]
 langchain-groq
-fastapi
-uvicorn[standard]
+google-api-python-client
+google-auth
+google-auth-oauthlib
+cryptography
